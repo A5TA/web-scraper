@@ -3,7 +3,7 @@
 ## Development :computer:
 ### Requirements
 - Python 3.10
-- 
+
 ### Setup
 Install virtual environment 
 ```
